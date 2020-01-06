@@ -4,7 +4,7 @@ CREATE TABLE assignments (
   content TEXT,
   day INTEGER,
   chapter INTEGER,
-  DURATION INTEGER
+  duration INTEGER
 );
 
 CREATE TABLE assignment_submissions (
